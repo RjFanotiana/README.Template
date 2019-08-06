@@ -88,4 +88,9 @@ ls -R | grep ":" | sed -e 's/://' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|
 ```
 </br>
 
-# ___Resource___ :internet:
+# ___Resource___ :squirrel:
+
+-
+-
+-
+-
