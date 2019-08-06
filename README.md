@@ -37,6 +37,7 @@ I just love **bold text**.</br>
 I just love __bold text__.</br>
 Love**is**bold</br>
 
+
 Italicized text is the *cat's meow*.</br>
 Italicized text is the _cat's meow_.</br>
 A*cat*meow</br>
@@ -52,5 +53,9 @@ This text is **_really important_**.</br>
 | Header      | Title       | Here's this   |
 |why the hell is this      | part        | grey?        |
 
+</br>
+</br>
+
+>block quotes are ___cool___
 
 
