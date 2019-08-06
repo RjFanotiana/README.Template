@@ -15,3 +15,21 @@
 
 ###### seriously?!?! Even I wouldn't bother reading this and I wrote it
 </br>
+</br>
+
+Heading level 1
+===============
+
+</br>
+
+Heading level 2
+---------------
+
+</br>
+
+obviously you can just write paragraph text lkie this but don't write too much of it. Devs don't have time for puny noobs that write too many paragraphs.
+
+</br>
+
+always remember to jump lines wit "</br>"
+
