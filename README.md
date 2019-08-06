@@ -32,7 +32,7 @@
 
 ## ___File Tree___ :tree:
 
- |-app
+ ```|-app
  |---assets
  |-----config
  |-----images
@@ -76,6 +76,7 @@
  |-----assets
  |---storage
  |-vendor
+ ```
 
 #### Copy this in terminal where your /file is
 >ls -R | grep ":" | sed -e 's/://' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|/'
