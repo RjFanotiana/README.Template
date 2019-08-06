@@ -114,4 +114,8 @@ This is the *[Markdown Guide](https://www.markdownguide.org)*.
 }
 ```
 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
 
