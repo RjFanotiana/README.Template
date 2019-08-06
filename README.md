@@ -26,7 +26,7 @@
 
 # ___Software___ :robot:
 
-| Ruby version/ Rails Version  | Gems  |  Text Editor |  Terminal |  OS |
+| Ruby version/ Rails Version  | Gems :gem: |  Text Editor |  Terminal |  OS |
 |---|---|---|---|---|
 | V.  | rspec  | sublime  |  iterm2 | Mojave  |
 | V.  | sinatra  |   |   |   |
