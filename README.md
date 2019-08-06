@@ -65,6 +65,9 @@ This text is **_really important_**.</br>
 | Header      | Title       | Here's this   |
 |why the hell is this      | part        | grey?        |
 
+table generator link </br>
+http://www.tablesgenerator.com/markdown_tables
+
 </br>
 </br>
 
@@ -117,5 +120,9 @@ This is the *[Markdown Guide](https://www.markdownguide.org)*.
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+http://www.automaticfreakingurl.com
+
+~~The world is flat.~~ We now know that the world is round.
 
 
