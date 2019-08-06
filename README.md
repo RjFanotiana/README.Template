@@ -7,6 +7,7 @@
 >Cette formation étant difficle, on ne veut jamais passer trop de temps sur un *README*.
 >J'ai crée çe repo pour nous, pour qu'on n'ai plus a faire de readme pourris.
 >Le reste de ce fichier est en Anglais, mais vous comprendrais. vous êtes des pirates après tout!
+</br>
 
 ### ___SUMMARY___ :book:
 
@@ -21,6 +22,7 @@
 - Resurces
     -sites I used
     -other cool sites
+</br>
 
 # ___Software___ :robot:
 
@@ -29,6 +31,8 @@
 | V.  | rspec  | sublime  |  iterm2 | Mojave  |
 | V.  | sinatra  |   |   |   |
 |   | etc  |   |   |   |
+
+</br>
 
 # ___File Tree___ :tree:
 
@@ -82,5 +86,6 @@
 ```
 ls -R | grep ":" | sed -e 's/://' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|/'
 ```
+</br>
 
 # ___Resource___ :internet:
