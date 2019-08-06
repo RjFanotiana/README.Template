@@ -1,3 +1,8 @@
+###### resources
+- https://www.markdownguide.org
+- https://guides.github.com/features/mastering-markdown/
+- 
+
 # Header 1: usually your main title goes here
 </br>
 
@@ -125,4 +130,31 @@ http://www.automaticfreakingurl.com
 
 ~~The world is flat.~~ We now know that the world is round.
 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
+def foo():
+    if not bar:
+        return True
+        
+</br>
+
+   function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+    
+</br>
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+## [emojies](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) are :fire: awesome
