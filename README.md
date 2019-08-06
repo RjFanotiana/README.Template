@@ -1,7 +1,7 @@
 # ~~:fire::fire:~~ ___README TEMPLATE 3000___ ~~:fire::fire:~~
 </br>
 
-### ___INTRO___ :fr:
+# ___INTRO___ :fr:
 
 ##### Pour les moussaillons de [THE HACKING PR0JECT](https://www.thehackingproject.org) :parrot:
 >Cette formation étant difficle, on ne veut jamais passer trop de temps sur un *README*.
@@ -22,7 +22,7 @@
     -sites I used
     -other cool sites
 
-## ___Software___ :robot:
+# ___Software___ :robot:
 
 | Ruby version/ Rails Version  | Gems  |  Text Editor |  Terminal |  OS |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@
 | V.  | sinatra  |   |   |   |
 |   | etc  |   |   |   |
 
-## ___File Tree___ :tree:
+# ___File Tree___ :tree:
 
  ```|-app
  |---assets
@@ -83,4 +83,4 @@
 ls -R | grep ":" | sed -e 's/://' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|/'
 ```
 
-## ___Resource___ :internet:
+# ___Resource___ :internet:
