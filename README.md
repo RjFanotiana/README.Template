@@ -5,6 +5,5 @@
 >Cette formation étant difficle, on ne veut jamais passer trop de temps sur un *README*.
 >J'ai crée çe repo pour nous, pour qu'on n'ai plus a faire de readme pourris.
 >Le reste de ce fichier est en Anglais, mais vous comprendrais. vous êtes des pirates après tout!
-</br>
 
-#### Summary :book:
+### Summary :book:
