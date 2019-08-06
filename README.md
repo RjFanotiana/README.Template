@@ -100,7 +100,7 @@ ls -R | grep ":" | sed -e 's/://' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|
 ```
 </br>
 
-# ___Resource___ :space_invader:
+# ___Resources___ :space_invader:
 
 - [emojies](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - [markdownguide](https://www.markdownguide.org)
