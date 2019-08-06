@@ -1,3 +1,15 @@
+
+```
+ooooooooo.   oooooooooooo       .o.       oooooooooo.        ooo        ooooo oooooooooooo .o. 
+`888   `Y88. `888'     `8      .888.      `888'   `Y8b       `88.       .888' `888'     `8 888 
+ 888   .d88'  888             .8"888.      888      888       888b     d'888   888         888 
+ 888ooo88P'   888oooo8       .8' `888.     888      888       8 Y88. .P  888   888oooo8    Y8P 
+ 888`88b.     888    "      .88ooo8888.    888      888       8  `888'   888   888    "    `8' 
+ 888  `88b.   888       o  .8'     `888.   888     d88'       8    Y     888   888       o .o. 
+o888o  o888o o888ooooood8 o88o     o8888o o888bood8P'        o8o        o888o o888ooooood8 Y8P 
+                                                                                               
+```
+
 # ___INTRO___ :fr:
 
 ##### Pour les moussaillons de [THE HACKING PR0JECT](https://www.thehackingproject.org) :anchor:
