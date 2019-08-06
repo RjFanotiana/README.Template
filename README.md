@@ -11,15 +11,15 @@
 
 ### ___SUMMARY___ :book:
 
-- Software
-    - Ruby Version
+1. Software
+    - Ruby Version / Rails Version
     - Gems
     - text editor
     - Operating System
-- File tree
+1. File tree
     - File tree
     - Code to insert in terminal to generate it
-- Resurces
+1. Resources
     -sites I used
     -other cool sites
 </br>
