@@ -90,7 +90,8 @@ ls -R | grep ":" | sed -e 's/://' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|
 
 # ___Resource___ :space_invader:
 
-- [emojis](https://www.thehackingproject.org)
-- [github markdown](https://www.thehackingproject.org)
-- [](https://www.thehackingproject.org)
+- [emojies](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [markdownguide]https://www.markdownguide.org
+- [github guides]https://guides.github.com/features/mastering-markdown/
 - [THE HACKING PR0JECT](https://www.thehackingproject.org)
+- [:squirrel:](https://www.youtube.com/watch?v=N3ie1Vt9WA0)
