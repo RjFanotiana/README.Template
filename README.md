@@ -91,7 +91,8 @@ ls -R | grep ":" | sed -e 's/://' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|
 # ___Resource___ :space_invader:
 
 - [emojies](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-- [markdownguide]https://www.markdownguide.org
-- [github guides]https://guides.github.com/features/mastering-markdown/
+- [markdownguide](https://www.markdownguide.org)
+- [github guides](https://guides.github.com/features/mastering-markdown/)
 - [THE HACKING PR0JECT](https://www.thehackingproject.org)
+- [cool ASCII text](http://patorjk.com/software/taag/#p=testall&f=ANSI%20Shadow&t=FUCK%20YEAH)
 - [:squirrel:](https://www.youtube.com/watch?v=N3ie1Vt9WA0)
