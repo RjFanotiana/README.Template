@@ -33,3 +33,7 @@ obviously you can just write paragraph text lkie this but don't write too much o
 
 always remember to jump lines wit "</br>"
 
+I just love **bold text**.
+I just love __bold text__.
+Love**is**bold
+
