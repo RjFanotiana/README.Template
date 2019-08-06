@@ -10,17 +10,17 @@
 
 </br>
 
-1. Software
+1. #### Software
     - ###### Ruby Version / Rails Version
-    - Gems
-    - text editor
-    - Operating System
-1. File tree
-    - File tree
-    - Code to insert in terminal to generate it
-1. Resources
-    -sites I used
-    -other cool sites
+    - ###### Gems
+    - ###### text editor
+    - ###### Operating System
+1. #### File tree
+    - ###### File tree
+    - ###### Code to insert in terminal to generate it
+1. #### Resources
+    - ###### sites I used
+    - ###### other cool sites
 
 </br>
 
