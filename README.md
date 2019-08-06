@@ -1,6 +1,3 @@
-# ~~:fire::fire:~~ ___README TEMPLATE 3000___ ~~:fire::fire:~~
-</br>
-
 # ___INTRO___ :fr:
 
 ##### Pour les moussaillons de [THE HACKING PR0JECT](https://www.thehackingproject.org) :anchor:
@@ -24,6 +21,7 @@
 1. Resources
     -sites I used
     -other cool sites
+
 </br>
 
 # ___Software___ :robot:
