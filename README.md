@@ -26,4 +26,10 @@
 
 ## ___File Tree___ :tree:
 
+| Ruby Version  | Gems  |  Text Editor |  Terminal |  OS |
+|---|---|---|---|---|
+| V.  | rspec  | sublime  |  iterm2 | Mojave  |
+|   | sinatra  |   |   |   |
+|   | etc  |   |   |   |
+
 ## ___Resource___ :internet:
