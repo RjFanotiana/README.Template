@@ -51,6 +51,7 @@ This text is **_really important_**.</br>
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
+|is this      | part        | grey?         |
 
 
 
