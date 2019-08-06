@@ -32,6 +32,53 @@
 
 ## ___File Tree___ :tree:
 
+ |-app
+ |---assets
+ |-----config
+ |-----images
+ |-----javascripts
+ |-------channels
+ |-----stylesheets
+ |---channels
+ |-----application_cable
+ |---controllers
+ |-----concerns
+ |---helpers
+ |---jobs
+ |---mailers
+ |---models
+ |-----concerns
+ |---views
+ |-----layouts
+ |-bin
+ |-config
+ |---environments
+ |---initializers
+ |---locales
+ |-db
+ |-lib
+ |---assets
+ |---tasks
+ |-log
+ |-public
+ |-storage
+ |-test
+ |---controllers
+ |---fixtures
+ |-----files
+ |---helpers
+ |---integration
+ |---mailers
+ |---models
+ |---system
+ |-tmp
+ |---cache
+ |-----assets
+ |---storage
+ |-vendor
+
+#### Copy this in terminal where your /file is
+>ls -R | grep ":" | sed -e 's/://' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|/'
 
 
 ## ___Resource___ :internet:
