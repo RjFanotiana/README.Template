@@ -12,7 +12,7 @@ o888o  o888o o888ooooood8 o88o     o8888o o888bood8P'        o8o        o888o o8
 
 # ___INTRO___ :fr:
 
-#### Pour les moussaillons de [THE HACKING PR0JECT](https://www.thehackingproject.org) :anchor:
+### Pour les moussaillons de [THE HACKING PR0JECT](https://www.thehackingproject.org) :anchor:
 >Cette formation étant difficle, on ne veut jamais passer trop de temps sur un *README*.
 >J'ai crée çe repo pour nous, pour qu'on n'ai plus a faire de readme pourris.
 >Le reste de ce fichier est en Anglais, mais vous comprendrais. vous êtes des pirates après tout!
@@ -20,7 +20,7 @@ o888o  o888o o888ooooood8 o88o     o8888o o888bood8P'        o8o        o888o o8
 
 -------------------------------------------------------
 
-##### **Completed**
+#### **Completed**
 
 - [x] [FreeDoc.rb](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi2sqqO6u7jAhVCzoUKHacjD4EQjRx6BAgBEAQ&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdoctor&psig=AOvVaw1Qk1hLX9dYieC6BcXNqkUR&ust=1565200960886529)
 - [x] [AirDog.rb](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi4ndea6e7jAhUKTBoKHa9MAgIQjRx6BAgBEAQ&url=https%3A%2F%2Fimgur.com%2Fgallery%2FyTxGNrN%2Fcomment%2F169462044&psig=AOvVaw0Vb1ZQHML6-8p9EUIKdWKc&ust=1565200718162405)
