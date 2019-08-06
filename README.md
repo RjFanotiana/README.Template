@@ -24,12 +24,14 @@
 
 ## ___Software___ :robot:
 
-## ___File Tree___ :tree:
-
-| Ruby Version  | Gems  |  Text Editor |  Terminal |  OS |
+| Ruby version/ Rails Version  | Gems  |  Text Editor |  Terminal |  OS |
 |---|---|---|---|---|
 | V.  | rspec  | sublime  |  iterm2 | Mojave  |
-|   | sinatra  |   |   |   |
+| V.  | sinatra  |   |   |   |
 |   | etc  |   |   |   |
+
+## ___File Tree___ :tree:
+
+
 
 ## ___Resource___ :internet:
