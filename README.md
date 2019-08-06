@@ -107,4 +107,5 @@ ls -R | grep ":" | sed -e 's/://' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|
 - [github guides](https://guides.github.com/features/mastering-markdown/)
 - [THE HACKING PR0JECT](https://www.thehackingproject.org)
 - [cool ASCII text](http://patorjk.com/software/taag/#p=testall&f=ANSI%20Shadow&t=FUCK%20YEAH)
+- [table generator](http://www.tablesgenerator.com/markdown_tables)
 - [:squirrel:](https://www.youtube.com/watch?v=N3ie1Vt9WA0)
