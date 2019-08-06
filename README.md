@@ -37,6 +37,18 @@ I just love **bold text**.</br>
 I just love __bold text__.</br>
 Love**is**bold</br>
 
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+
 
 Italicized text is the *cat's meow*.</br>
 Italicized text is the _cat's meow_.</br>
