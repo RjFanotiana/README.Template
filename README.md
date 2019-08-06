@@ -50,7 +50,7 @@ This text is **_really important_**.</br>
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
-|is this      | part        | grey?        |
+|why the hell is this      | part        | grey?        |
 
 
 
