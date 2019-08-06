@@ -33,18 +33,18 @@ obviously you can just write paragraph text lkie this but don't write too much o
 
 always remember to jump lines wit "</br>"
 
-I just love **bold text**.
-I just love __bold text__.
-Love**is**bold
+I just love **bold text**.</br>
+I just love __bold text__.</br>
+Love**is**bold</br>
 
-Italicized text is the *cat's meow*.
-Italicized text is the _cat's meow_.
-A*cat*meow
+Italicized text is the *cat's meow*.</br>
+Italicized text is the _cat's meow_.</br>
+A*cat*meow</br>
 
-This text is ***really important***.
-This text is ___really important___.	
-This text is __*really important*__.
-This text is **_really important_**.
+This text is ***really important***.</br>
+This text is ___really important___.</br>	
+This text is __*really important*__.</br>
+This text is **_really important_**.</br>
 
 
 | Syntax      | Description | Test Text     |
