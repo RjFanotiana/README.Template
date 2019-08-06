@@ -1,7 +1,7 @@
 # ~~:fire::fire:~~ ___README TEMPLATE 3000___ ~~:fire::fire:~~
 </br>
 
-### ___INTRO___ :book:
+### ___INTRO___ :fr:
 
 ##### Pour les moussaillons de [THE HACKING PR0JECT](https://www.thehackingproject.org) :parrot:
 >Cette formation étant difficle, on ne veut jamais passer trop de temps sur un *README*.
