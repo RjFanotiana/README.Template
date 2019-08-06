@@ -90,7 +90,7 @@ ls -R | grep ":" | sed -e 's/://' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|
 
 # ___Resource___ :squirrel:
 
--
--
--
--
+-[emojis](https://www.thehackingproject.org)
+-[github markdown](https://www.thehackingproject.org)
+-[](https://www.thehackingproject.org)
+-[THE HACKING PR0JECT](https://www.thehackingproject.org)
