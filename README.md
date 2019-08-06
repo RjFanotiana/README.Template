@@ -14,6 +14,7 @@ o888o  o888o o888ooooood8 o88o     o8888o o888bood8P'        o8o        o888o o8
 
 ### Pour les moussaillons de [THE HACKING PR0JECT](https://www.thehackingproject.org) :anchor:
 >Cette formation étant difficle, on ne veut jamais passer trop de temps sur un *README*.
+>
 >J'ai crée çe repo pour nous, pour qu'on n'ai plus a faire de readme pourris.
 >Le reste de ce fichier est en Anglais, mais vous comprendrais. vous êtes des pirates après tout!
 >Les resources sont en bas et si le repo vous interesse, mettez le en :star: histoire de ne jamais le perdre :wink:
