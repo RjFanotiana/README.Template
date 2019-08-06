@@ -18,6 +18,8 @@ o888o  o888o o888ooooood8 o88o     o8888o o888bood8P'        o8o        o888o o8
 >Le reste de ce fichier est en Anglais, mais vous comprendrais. vous êtes des pirates après tout!
 </br>
 
+-------------------------------------------------------
+
 ### **Completed**
 
 - [x] [FreeDoc.rb](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi2sqqO6u7jAhVCzoUKHacjD4EQjRx6BAgBEAQ&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdoctor&psig=AOvVaw1Qk1hLX9dYieC6BcXNqkUR&ust=1565200960886529)
