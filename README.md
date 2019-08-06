@@ -11,7 +11,7 @@
 </br>
 
 1. Software
-    - Ruby Version / Rails Version
+    - ###### Ruby Version / Rails Version
     - Gems
     - text editor
     - Operating System
