@@ -88,7 +88,7 @@ ls -R | grep ":" | sed -e 's/://' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|
 ```
 </br>
 
-# ___Resource___ :squirrel:
+# ___Resource___ :space_invader:
 
 - [emojis](https://www.thehackingproject.org)
 - [github markdown](https://www.thehackingproject.org)
