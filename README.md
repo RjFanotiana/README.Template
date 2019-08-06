@@ -17,6 +17,7 @@ o888o  o888o o888ooooood8 o88o     o8888o o888bood8P'        o8o        o888o o8
 >J'ai crée çe repo pour nous, pour qu'on n'ai plus a faire de readme pourris.
 >Le reste de ce fichier est en Anglais, mais vous comprendrais. vous êtes des pirates après tout!
 >Les resources sont en bas et si le repo vous interesse, mettez le en :star: histoire de ne jamais le perdre :wink:
+>Suprimez et modifiez ce qu'il vous plait, c'est cadeau!
 </br>
 
 -------------------------------------------------------
