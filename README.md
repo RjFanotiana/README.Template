@@ -94,4 +94,12 @@ This is the *[Markdown Guide](https://www.markdownguide.org)*.
 
 ``` and finally this how you frame your fucking code blocks, well done. ```
 
+```json
+{
+  "now this is just": "fucking magic",
+  "Abel": "Chapter 16",
+  "verse": 25
+}
+```
+
 
